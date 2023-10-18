@@ -1,0 +1,8 @@
+{
+   "host"       : "bolt://localhost",
+   "port"       : 7687,
+   "username"   : "neo4j",
+   "password"   : "anto88",
+   "query_file" : "/var/lib/neo4j/import/10000_1_2_2/query/query.txt",
+   "results"    : "/var/lib/neo4j/import/10000_1_2_2/results/neo_10000_2_2.csv"
+}
