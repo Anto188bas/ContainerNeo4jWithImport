@@ -1,7 +1,7 @@
 # PROCEDURES
 <br/>
 
-The image allow you to load a network within neo4j db by using the neo4j-admin tool
+The image allows you to load a network within neo4j db by using the neo4j-admin tool
 
 <br></br>
 <b>Example nodes.csv</b>
