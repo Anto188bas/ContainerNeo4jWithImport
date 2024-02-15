@@ -7,7 +7,7 @@ Before to run the docker-compose you need to:
   
   1. Create the directory "networks"
   2. Insert under such directory, the network one having nodes and edges file
-  3. configure loading.properties
+  3. configure loading.properties (ubder the directory init_network)
   4. run docker-compose.yaml
 
 NOTE: 
