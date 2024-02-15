@@ -3,6 +3,6 @@
    "port"       : 7687,
    "username"   : "neo4j",
    "password"   : "<your_password as setted in init_network/loading.properties>",
-   "query_file" : "import/<network_dir>/query/query.txt",
-   "results"    : "import/<network_dir>/results/<results_file_name>.csv"
+   "query_file" : "var/lib/neo4j/import/<network_dir>/query/query.txt",
+   "results"    : "var/lib/neo4j/import/<network_dir>/results/<results_file_name>.csv"
 }
