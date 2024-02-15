@@ -6,9 +6,17 @@
 Before to run the docker-compose you need to:
   
   1. Create the directory "networks"
-  2. Insert under such directory, the network one having nodes and edges file
-  3. configure loading.properties (ubder the directory init_network)
-  4. run docker-compose.yaml
+  2. Insert into "networks", the directory (<network_dir_name>) containing nodes and edges file. Such a directory is like that:
+
+     <network_dir_name>
+
+       - nodes.csv
+       - edges.csv
+       - query/query.txt
+       - results (it is a directory where the timing 
+      
+  4. Configure loading.properties (ubder the directory init_network)
+  6. run docker-compose.yaml
 
 NOTE: 
 
