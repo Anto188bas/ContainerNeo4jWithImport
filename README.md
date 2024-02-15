@@ -1,1 +1,1 @@
-Switch to master brancj
+Switch to master branch
