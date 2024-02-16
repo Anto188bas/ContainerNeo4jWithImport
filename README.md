@@ -33,8 +33,8 @@ Before to run the docker-compose you need to:
 
      <network_dir_name>
 
-       - nodes.csv
-       - edges.csv
+       - nodes/nodes.csv
+       - edges/edges.csv
        - query/query.txt
        - results (it is a directory where the timing 
       
